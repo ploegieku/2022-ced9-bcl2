@@ -1,0 +1,24 @@
+first signature:
+  signature filename: ced9_P41958.fasta.singleton.hp.k11.scaled1.sig
+  signature: sp|P41958|CED9_CAEEL Apoptosis regulator ced-9 OS=Caenorhabditis elegans OX=6239 GN=ced-9 PE=1 SV=1
+  md5: 83d9cb1f7df17046b160dd3a72b265a8
+  k=11 molecule=hp num=0 scaled=1
+
+second signature:
+  signature filename: bcl2_P10415.fasta.singleton.hp.k11.scaled1.sig
+  signature: sp|P10415|BCL2_HUMAN Apoptosis regulator Bcl-2 OS=Homo sapiens OX=9606 GN=BCL2 PE=1 SV=2
+  md5: 26f1fd1c0c3c605528b0ff2741f9b5b4
+  k=11 molecule=hp num=0 scaled=1
+
+similarity:                  0.10754
+first contained in second:   0.14008
+second contained in first:   0.16744
+
+number of hashes in first:   257
+number of hashes in second:  215
+
+number of hashes in common:  36
+only in first:               221
+only in second:              179
+total (union):               436
+

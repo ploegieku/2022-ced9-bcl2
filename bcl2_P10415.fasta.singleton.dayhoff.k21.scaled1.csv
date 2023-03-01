@@ -1,0 +1,2 @@
+signature_file,md5,ksize,moltype,num,scaled,n_hashes,seed,with_abundance,name,filename,license,sum_hashes
+bcl2_P10415.fasta.singleton.dayhoff.k21.scaled1.sig,3d403f51bd1873c8e881e4689a033979,21,dayhoff,0,1,219,42,1,sp|P10415|BCL2_HUMAN Apoptosis regulator Bcl-2 OS=Homo sapiens OX=9606 GN=BCL2 PE=1 SV=2,bcl2_P10415.fasta,CC0,219

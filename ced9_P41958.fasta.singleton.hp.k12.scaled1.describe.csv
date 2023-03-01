@@ -1,0 +1,2 @@
+signature_file,md5,ksize,moltype,num,scaled,n_hashes,seed,with_abundance,name,filename,license,sum_hashes
+ced9_P41958.fasta.singleton.hp.k12.scaled1.sig,5baa6059c3306c2b6a500abd929d539d,12,hp,0,1,264,42,1,sp|P41958|CED9_CAEEL Apoptosis regulator ced-9 OS=Caenorhabditis elegans OX=6239 GN=ced-9 PE=1 SV=1,ced9_P41958.fasta,CC0,269
